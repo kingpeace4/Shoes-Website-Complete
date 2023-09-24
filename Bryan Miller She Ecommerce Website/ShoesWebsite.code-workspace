@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/GitHub/ShoesWebsite"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ShoeEcommerce-html-css-js-ecommerce"
+	}
+}
